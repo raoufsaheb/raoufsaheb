@@ -20,3 +20,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raoufsaheb&show_icons=true" />
 </picture>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
