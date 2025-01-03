@@ -9,7 +9,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=raoufsaheb&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -20,4 +20,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raoufsaheb&show_icons=true" />
 </picture>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
