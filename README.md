@@ -6,8 +6,10 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,anaconda,androidstudio,arduino,bootstrap,codepen,css,docker,eclipse,figma,firebase,flutter,gradle,java,js,laravel,latex,netlify,py,react,redux,tailwind,vscode,ubuntu,tensorflow,tailwind,raspberrypi" />
   </a>
 </p>
-
+<div align="center">
+ 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 <picture align="center">
   <source
